@@ -21,3 +21,17 @@
 - **API**: Crypto data fetched via external REST APIs
 - **State Management**: React Context API for global state handling
 
+---
+
+## 🖼️ Screenshots
+
+### 1. Home Page
+![CryptoKnight](screenShots/img-1.png)
+
+### 2. Cryoto Knight pages
+![CryptoKnight](screenShots/img-2.png)
+![CryptoKnight](screenShots/img-3.png)
+![CryptoKnight](screenShots/img-4.png)
+
+---
+
